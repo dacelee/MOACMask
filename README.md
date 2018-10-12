@@ -2,7 +2,7 @@
 
 ## Support
 
-If you're a user seeking support, [leave your feedbacks at our GIT site](https://github.com/MOACChain/MOACMask/issues).
+If you're a user seeking support, [leave your feedbacks at our GIT site](https://github.com/dacelee/MOACMask/).
 
 ## Introduction
 
