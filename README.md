@@ -6,12 +6,12 @@ If you're a user seeking support, [leave your feedbacks at our GIT site](https:/
 
  [Firefox] https://addons.mozilla.org/zh-CN/firefox/addon/moacmask/
  
- [Google Chrome]
+ [Google Chrome] https://github.com/dacelee/MOACMask/blob/master/GoogleChrome.md
  
- [360游览器]
+ [360游览器] https://github.com/dacelee/MOACMask/blob/master/360SE.md
  
- [360急速游览器
- ]
+ [360急速游览器 OR Chromium] https://github.com/dacelee/MOACMask/blob/master/360Chromium.md
+ 
 ## Introduction
 
 In order to help users and developers access MOAC blockchain, we modified the [MetaMask Project](https://metamask.io/) to make it work with MOAC blockchain. MOAC blockchain JSON-RPC is compatiable with Ethereum WEB3 in many methods but is quite different in Transaction Format. Major changes are as the followings:
