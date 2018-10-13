@@ -16,7 +16,7 @@
 
 [Download](https://github.com/MOACChain/MOACMask/releases/download/v0.0.8/ChromeExtension.zip)
 
-To add the extension in Chrome,
+To add the extension in Chromium,
 
 Unzip the zip file.
 
