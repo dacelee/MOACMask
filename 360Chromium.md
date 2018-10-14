@@ -12,6 +12,10 @@
 
 6.顺利完成-可以使用MoacMask
 
+7.安装完成后，需要切换新版moacmesk ，点击右上角菜单找到设置 try beta！ 进入新版
+
+8.切换中文语言  先切换新版  点击右上角菜单找到设置  点击Current Language  ZH-cn
+
 
 
 [Download](https://github.com/MOACChain/MOACMask/releases/download/v0.0.8/ChromeExtension.zip)
