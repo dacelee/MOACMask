@@ -75,7 +75,7 @@
     "message": "Coinbaseのサイトで購入"
   },
   "buyCoinbaseExplainer": {
-    "message": "Etherを購入できます。Coinbaseは、世界的なBitcoin、MOAC、そしてLitecoinの取引所です。"
+    "message": "Moacを購入できます。Coinbaseは、世界的なBitcoin、MOAC、そしてLitecoinの取引所です。"
   },
   "cancel": {
     "message": "キャンセル"
@@ -163,7 +163,7 @@
     "message": "小数点桁数"
   }, 
   "defaultNetwork": {
-    "message": "デフォルトのEther送受信ネットワークはメインネットです。"
+    "message": "デフォルトのMoac送受信ネットワークはメインネットです。"
   },
   "denExplainer": {
     "message": "DENとは、あなたのパスワードが暗号化されたMetaMask内のストレージです。"
@@ -179,10 +179,10 @@
     "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "ETHを入金"
+    "message": "Moacを入金"
   },
   "depositMc": {
-    "message": "Etherを振込"
+    "message": "Moacを振込"
   },
   "depositFiat": {
     "message": "法定通貨でデポジット"
@@ -194,7 +194,7 @@
     "message": "ShapeShiftで交換"
   },
   "depositShapeShiftExplainer": {
-    "message": "他の暗号通貨とEtherを交換して、MetaMaskのウォレットへ入金できます。アカウント作成は不要です。"
+    "message": "他の暗号通貨とMoacを交換して、MetaMaskのウォレットへ入金できます。アカウント作成は不要です。"
   },
   "details": {
     "message": "詳細"
@@ -203,10 +203,10 @@
     "message": "ダイレクトデポジット"
   },
   "directDepositMc": {
-    "message": "Etherを直接入金"
+    "message": "Moacを直接入金"
   },
   "directDepositEtherExplainer": {
-    "message": "既にEtherをお持ちなら、MetaMaskの新しいウォレットにEtherを送信することができます。"
+    "message": "既にMoacをお持ちなら、MetaMaskの新しいウォレットにMoacを送信することができます。"
   },
   "done": {
     "message": "完了"
@@ -224,7 +224,7 @@
     "message": "パスワードを入力"
   },
   "moacExplorerView": {
-    "message": "Etherscanでアカウントを確認"
+    "message": "Moacでアカウントを確認"
   },
   "exchangeRate": {
     "message": "交換レート"
@@ -281,11 +281,11 @@
     "message": "必要ガスプライス"
   },
   "getMc": {
-    "message": "Etherを取得する"
+    "message": "Moacを取得する"
   },
   "getEtherFromFaucet": {
-    "message": "フォーセットで $1のEtherを得ることができます。",
-    "description": "Displays network name for Ether faucet"
+    "message": "フォーセットで $1のMoacを得ることができます。",
+    "description": "Displays network name for Moac faucet"
   },
   "greaterThanMin": {
     "message": " $1以上にして下さい。",
@@ -305,7 +305,7 @@
     "message": "トークンを隠しますか?"
   },
   "howToDeposit": {
-    "message": "どのようにEtherをデポジットしますか?"
+    "message": "どのようにMoacをデポジットしますか?"
   },
   "import": {
     "message": "追加",
@@ -315,7 +315,7 @@
     "message": "アカウントのインポート"
   },
   "importAccountMsg": {
-    "message":"追加したアカウントはMetaMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
+    "message":"追加したアカウントはMoacMaskのアカウントパスフレーズとは関連付けられません。インポートしたアカウントについての詳細は"
   },
   "importAnAccount": {
     "message": "アカウントをインポート"
@@ -408,7 +408,7 @@
     "message": "一つ以上のトークンを選択してください。"
   },
   "needMcInWallet": {
-    "message": "MetaMaskで分散型アプリケーションを使用するためには、このウォレットにEtherが必要です。"
+    "message": "MetaMaskで分散型アプリケーションを使用するためには、このウォレットにMoacが必要です。"
   },
   "needImportFile": {
     "message": "インポートするファイルを選択してください。",
@@ -583,13 +583,13 @@
     "message": "送信"
   },
   "sendMC": {
-    "message": "ETHの送信"
+    "message": "Moacの送信"
   },
   "sendTokens": {
     "message": "トークンを送る"
   },
   "onlySendToMoacAddress": {
-    "message": "ETHはイーサリウムアカウントのみに送信できます。"
+    "message": "Moacはイーサリウムアカウントのみに送信できます。"
   },
   "searchTokens": {
     "message": "トークンの検索"
@@ -646,7 +646,7 @@
     "message": "送信先"
   },
   "toETHviaShapeShift": {
-    "message": "ShapeShiftで $1をETHにする",
+    "message": "ShapeShiftで $1をMoacにする",
     "description": "system will fill in deposit type in start of message"
   },
   "token": {
