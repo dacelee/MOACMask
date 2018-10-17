@@ -184,7 +184,7 @@
     "message": "Dezimalangabe der Präzision"
   },
   "defaultNetwork": {
-    "message": "Das Standardnetzwerk für Ether Transaktionen ist das Main Net."
+    "message": "Das Standardnetzwerk für Moac Transaktionen ist das Main Net."
   },
   "denExplainer": {
     "message": "Dein DEN ist dein passwortverschlüsselter Speicher innerhalb von MetaMask."
@@ -200,10 +200,10 @@
     "description": "Teilt dem Benutzer mit welchen Token er beim Einzahlen mit Shapeshift ausgewählt hat"
   },
   "depositEth": {
-    "message": "Eth kaufen"
+    "message": "Moac kaufen"
   },
   "depositMc": {
-    "message": "Ether einzahlen"
+    "message": "Moac einzahlen"
   },
   "depositFiat": {
     "message": "Fiat einzahlen"
@@ -224,10 +224,10 @@
     "message": "Sofortige Einzahlung"
   },
   "directDepositMc": {
-    "message": "Sofort Ether einzahlen"
+    "message": "Sofort Moac einzahlen"
   },
   "directDepositEtherExplainer": {
-    "message": "Wenn du bereits Ether besitzt, ist die sofortige Einzahlung die schnellste Methode Ether in deine neue Wallet zu bekommen."
+    "message": "Wenn du bereits Moac besitzt, ist die sofortige Einzahlung die schnellste Methode Moac in deine neue Wallet zu bekommen."
   },
   "done": {
     "message": "Fertig"
@@ -263,7 +263,7 @@
     "message": "Passwörter stimmen nicht überein"
   },
   "moacExplorerView": {
-    "message": "Account auf Etherscan anschauen"
+    "message": "Account auf Moac anschauen"
   },
   "exchangeRate": {
     "message": "Wechselrate"
@@ -329,11 +329,11 @@
     "message": "Gaspreis benötigt"
   },
   "getMc": {
-    "message": "Ether holen"
+    "message": "MOac holen"
   },
   "getEtherFromFaucet": {
-    "message": "Ether für $1 vom Faucet holen",
-    "description": "Zeigt den Netzwerknamen für den Ether Faucet an"
+    "message": "Moac für $1 vom Faucet holen",
+    "description": "Zeigt den Netzwerknamen für den Moac Faucet an"
   },
   "greaterThanMin": {
     "message": "Muss größer oder gleich $1 sein.",
@@ -356,10 +356,10 @@
     "message": "Token ausblenden?"
   },
   "howToDeposit": {
-    "message": "Wie möchtest du Ether einzahlen?"
+    "message": "Wie möchtest du Moac einzahlen?"
   },
   "holdEther": {
-    "message": "Es erlaubt dir ether & Token zu halten und dient dir als Verbindung zu dezentralisierten Applikationen."
+    "message": "Es erlaubt dir Moac & Token zu halten und dient dir als Verbindung zu dezentralisierten Applikationen."
   },
   "import": {
     "message": "Importieren",
@@ -488,7 +488,7 @@
     "description": "Passwort und Datei sind notwendig um einen Account zu importieren"
   },
   "negativeETH": {
-    "message": "Negative ETH Beträge können nicht versendet werden."
+    "message": "Negative Moac Beträge können nicht versendet werden."
   },
   "networks": {
     "message": "Netzwerke"
@@ -694,13 +694,13 @@
     "message": "Senden"
   },
   "sendMC": {
-    "message": "ETH senden"
+    "message": "Moac senden"
   },
   "sendTokens": {
     "message": "Token senden"
   },
   "onlySendToMoacAddress": {
-    "message": "ETH unbedingt nur zu einer MOAC Adresse senden."
+    "message": "Moac unbedingt nur zu einer MOAC Adresse senden."
   },
   "sendTokensAnywhere": {
     "message": "Token zu einer beliebigen Person mit einem MOACaccount senden"
@@ -778,7 +778,7 @@
     "message": "An:"
   },
   "toETHviaShapeShift": {
-    "message": "$1 an ETH via ShapeShift",
+    "message": "$1 an Moac via ShapeShift",
     "description": "Das System wird den Einzahlungstyp im Beginn der Nachricht eintragen"
   },
   "tokenAddress": {
