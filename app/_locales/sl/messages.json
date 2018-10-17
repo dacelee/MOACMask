@@ -191,10 +191,10 @@
     "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "Vplačilo ETH"
+    "message": "Vplačilo Moac"
   },
   "depositMc": {
-    "message": "Vplačilo ethera"
+    "message": "Vplačilo Moac"
   },
   "depositFiat": {
     "message": "Vplačilo s klasičnimi valutami"
@@ -206,7 +206,7 @@
     "message": "Vplačilo z ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Če imate druge kriptovalute, lahko vpačate ether neposredno v MetaMask. Brez računov."
+    "message": "Če imate druge kriptovalute, lahko vpačate Moac neposredno v MetaMask. Brez računov."
   },
   "details": {
     "message": "Podrobnosti"
@@ -218,7 +218,7 @@
     "message": "Direktno vplačilo ehera"
   },
   "directDepositEtherExplainer": {
-    "message": "Če že imate ether, ga lahko najhitreje dobite v MetaMask z direktnim vplačilom."
+    "message": "Če že imate Moac, ga lahko najhitreje dobite v MetaMask z direktnim vplačilom."
   },
   "done": {
     "message": "Končano"
@@ -245,7 +245,7 @@
     "message": "Potrdite geslo"
   },
   "moacExplorerView": {
-    "message": "Poglejte račun na Etherscan"
+    "message": "Poglejte račun na Moac"
   },
   "exchangeRate": {
     "message": "Menjalni tečaj"
@@ -311,11 +311,11 @@
     "message": "Gas price je zahtevan"
   },
   "getMc": {
-    "message": "Pridobite ether"
+    "message": "Pridobite Moac"
   },
   "getEtherFromFaucet": {
-    "message": "Pridobite ether iz fauceta za $1",
-    "description": "Displays network name for Ether faucet"
+    "message": "Pridobite Moac iz fauceta za $1",
+    "description": "Displays network name for Moac faucet"
   },
   "greaterThanMin": {
     "message": "mora biti višji ali enak $1.",
@@ -338,7 +338,7 @@
     "message": "Skrijem žeton?"
   },
   "howToDeposit": {
-    "message": "Kako želite vplačati ether?"
+    "message": "Kako želite vplačati Moac?"
   },
   "holdEther": {
     "message": "Omogoča vam, da imate eter in žetone in služi kot most za decentralizirane aplikacije."
@@ -464,7 +464,7 @@
     "description": "Password and file needed to import an account"
   },
   "negativeETH": {
-    "message": "Ni mogoče poslati negativne vsote ETH."
+    "message": "Ni mogoče poslati negativne vsote Moac."
   },
   "networks": {
     "message": "Omrežja"
@@ -643,7 +643,7 @@
     "message": "Pošlji"
   },
   "sendMC": {
-    "message": "Pošlji ETH"
+    "message": "Pošlji Moac"
   },
   "sendTokens": {
     "message": "Pošlji žetone"
@@ -712,7 +712,7 @@
     "message": "Za"
   },
   "toETHviaShapeShift": {
-    "message": "$1 v ETH prek ShapeShift",
+    "message": "$1 v Moac prek ShapeShift",
     "description": "system will fill in deposit type in start of message"
   },
   "tokenAddress": {
