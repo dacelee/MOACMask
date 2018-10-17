@@ -191,10 +191,10 @@
     "description": "उपयोगकर्ता को बताता है कि उन्होंने सिक्का के साथ जमा करने के लिए किस सिक्का का चयन किया है"
   },
   "depositEth": {
-    "message": "Eth जमाआर्थ"
+    "message": "Moac जमाआर्थ"
   },
   "depositMc": {
-    "message": "जमा - Ether"
+    "message": "जमा - Moac"
   },
   "depositFiat": {
     "message": "फिएट के साथ जमा हो"
@@ -643,7 +643,7 @@
     "message": "भेजें"
   },
   "sendMC": {
-    "message": "भेजें ETH"
+    "message": "भेजें Moac"
   },
   "sendTokens": {
     "message": "भेजें टोकन"
@@ -712,7 +712,7 @@
     "message": "के लिए"
   },
   "toETHviaShapeShift": {
-    "message": "शैपशैफ्ट द्वारा $1 से ETH में जमा",
+    "message": "शैपशैफ्ट द्वारा $1 से Moac में जमा",
     "description": "संदेश की शुरुआत में जमा प्रकार भर जाएगा"
   },
   "tokenAddress": {
