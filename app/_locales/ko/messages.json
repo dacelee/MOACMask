@@ -258,7 +258,7 @@
   },
   "getEtherFromFaucet": {
     "message": "faucet에서 $1에 달하는 이더를 얻으세요.",
-    "description": "Displays network name for Ether faucet"
+    "description": "Displays network name for Moac faucet"
   },
   "greaterThanMin": {
     "message": "$1 이상이어야 합니다.",
@@ -541,7 +541,7 @@
     "message": "대상"
   },
   "toETHviaShapeShift": {
-    "message": "ShapeShift를 통해 $1를 ETH로 바꾸기",
+    "message": "ShapeShift를 통해 $1를 Moac로 바꾸기",
     "description": "system will fill in deposit type in start of message"
   },
   "tokenBalance": {
