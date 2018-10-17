@@ -84,7 +84,7 @@
     "message": "Nákup na Coinbase"
   },
   "buyCoinbaseExplainer": {
-    "message": "Coinbase je světově nejoblíbenější místo k nákupu a prodeji bitcoinu, etherea nebo litecoinu."
+    "message": "Coinbase je světově nejoblíbenější místo k nákupu a prodeji bitcoinu, moacerea nebo litecoinu."
   },
   "ok": {
     "message": "Ok"
@@ -187,7 +187,7 @@
     "message": "Počet desetinných míst přesnosti"
   },
   "defaultNetwork": {
-    "message": "Výchozí síť pro Etherové transakce je Main Net."
+    "message": "Výchozí síť pro moacerové transakce je Main Net."
   },
   "denExplainer": {
     "message": "Váš DEN je heslem šifrované uložiště v MetaMasku."
@@ -203,10 +203,10 @@
     "description": "Tells the user what coin they have selected to deposit with shapeshift"
   },
   "depositEth": {
-    "message": "Vložit Eth"
+    "message": "Vložit moac"
   },
   "depositMc": {
-    "message": "Vložit Ether"
+    "message": "Vložit moacer"
   },
   "depositFiat": {
     "message": "Vklad s fiat měnou"
@@ -218,7 +218,7 @@
     "message": "Vklad přes ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Pokud vlastníte jiné kryptoměny, můžete je směnit Ether a vložit ho přímo do peněženky MetaMask. Bez založení účtu."
+    "message": "Pokud vlastníte jiné kryptoměny, můžete je směnit moac a vložit ho přímo do peněženky MetaMask. Bez založení účtu."
   },
   "details": {
     "message": "Podrobnosti"
@@ -227,10 +227,10 @@
     "message": "Přímý vklad"
   },
   "directDepositMc": {
-    "message": "Vložit Ether přímo"
+    "message": "Vložit moacer přímo"
   },
   "directDepositEtherExplainer": {
-    "message": "Pokud už vlastníte nějaký Ether, nejrychleji ho dostanete do peněženky přímým vkladem."
+    "message": "Pokud už vlastníte nějaký moacer, nejrychleji ho dostanete do peněženky přímým vkladem."
   },
   "done": {
     "message": "Hotovo"
@@ -266,7 +266,7 @@
     "message": "Hesla nejsou stejná"
   },
   "moacExplorerView": {
-    "message": "Prohlédněte si účet na Etherscan"
+    "message": "Prohlédněte si účet na explorer"
   },
   "exchangeRate": {
     "message": "Směnný kurz"
@@ -332,11 +332,11 @@
     "message": "Cena paliva je povinná"
   },
   "getMc": {
-    "message": "Získejte Ether"
+    "message": "Získejte moac"
   },
   "getEtherFromFaucet": {
-    "message": "Získejte Ether z faucetu za $1.",
-    "description": "Displays network name for Ether faucet"
+    "message": "Získejte moacer z faucetu za $1.",
+    "description": "Displays network name for moac faucet"
   },
   "greaterThanMin": {
     "message": "musí být větší nebo roven $1.",
@@ -359,10 +359,10 @@
     "message": "Skrýt token?"
   },
   "howToDeposit": {
-    "message": "Jakým způsobem chcete vložit Ether?"
+    "message": "Jakým způsobem chcete vložit moac?"
   },
   "holdEther": {
-    "message": "Dovoluje vám držet ether a tokeny a slouží jako most k decentralizovaným aplikacím."
+    "message": "Dovoluje vám držet moac a tokeny a slouží jako most k decentralizovaným aplikacím."
   },
   "import": {
     "message": "Import",
@@ -486,7 +486,7 @@
     "message": "Musíte zvolit aspoň 1 token."
   },
   "needMcInWallet": {
-    "message": "Potřebujete Ether v peněžence, abyste mohli pomocí MetaMasku interagovat s decentralizovanými aplikacemi."
+    "message": "Potřebujete moac v peněžence, abyste mohli pomocí MetaMasku interagovat s decentralizovanými aplikacemi."
   },
   "needImportFile": {
     "message": "Musíte zvolit soubor k importu.",
@@ -497,7 +497,7 @@
     "description": "Password and file needed to import an account"
   },
   "negativeETH": {
-    "message": "Nelze odeslat zápornou částku ETH."
+    "message": "Nelze odeslat zápornou částku moac."
   },
   "networks": {
     "message": "Sítě"
@@ -712,13 +712,13 @@
     "message": "Odeslat"
   },
   "sendMC": {
-    "message": "Odeslat ETH"
+    "message": "Odeslat moac"
   },
   "sendTokens": {
     "message": "Odeslat tokeny"
   },
   "onlySendToMoacAddress": {
-    "message": "Posílejte jen ETH na MOAC adresu."
+    "message": "Posílejte jen Moac na MOAC adresu."
   },
   "searchTokens": {
     "message": "Hledat tokeny"
@@ -799,7 +799,7 @@
     "message": "Komu: "
   },
   "toETHviaShapeShift": {
-    "message": "$1 na ETH přes ShapeShift",
+    "message": "$1 na Moac přes ShapeShift",
     "description": "system will fill in deposit type in start of message"
   },
   "tokenAddress": {
