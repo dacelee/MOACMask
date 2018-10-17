@@ -215,10 +215,10 @@
     "description": "Informa al usuario que moneda ha elegido para depositar en shapeshift"
   },
   "depositEth": {
-    "message": "Depositar Ether"
+    "message": "Depositar Moac"
   },
   "depositMc": {
-    "message": "Depositar Ether"
+    "message": "Depositar Moac"
   },
   "depositFiat": {
     "message": "Depositar con fiat (divisa nacional)"
@@ -230,7 +230,7 @@
     "message": "Depositar con ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Si posees otras criptomonedas, puedes intercambiar y depositar Ether directamente en tu billetera de MetaMask. No necesitas tener una cuenta."
+    "message": "Si posees otras criptomonedas, puedes intercambiar y depositar Moac directamente en tu billetera de MetaMask. No necesitas tener una cuenta."
   },
   "details": {
     "message": "Detalles"
@@ -239,10 +239,10 @@
     "message": "Depósito directo"
   },
   "directDepositMc": {
-    "message": "Depositar Ether directamente"
+    "message": "Depositar Moac directamente"
   },
   "directDepositEtherExplainer": {
-    "message": "Si posees Ether, la forma más rápida de transferirlo a tu nueva billetera es depositándolo directamente"
+    "message": "Si posees Moac, la forma más rápida de transferirlo a tu nueva billetera es depositándolo directamente"
   },
   "done": {
     "message": "Completo"
@@ -272,7 +272,7 @@
     "message": "Ingresa tu contraseña para confirmar"
   },
   "moacExplorerView": {
-    "message": "Ver la cuenta en Etherscan"
+    "message": "Ver la cuenta en Moac"
   },
   "exchangeRate": {
     "message": "Tipo de cambio"
@@ -338,11 +338,11 @@
     "message": "Generando semilla..."
   },
   "getMc": {
-    "message": "Conseguir Ether"
+    "message": "Conseguir Moac"
   },
   "getEtherFromFaucet": {
-    "message": "Obtenga Ether de un faucet (grifo) por $1",
-    "description": "Muestra el nombre de la red para el faucet (grifo) de Ether"
+    "message": "Obtenga Moac de un faucet (grifo) por $1",
+    "description": "Muestra el nombre de la red para el faucet (grifo) de Moac"
   },
   "greaterThanMin": {
     "message": "Debe ser mayor o igual a $1",
@@ -365,10 +365,10 @@
     "message": "¿Ocultar token?"
   },
   "holdEther": {
-    "message": "Te permite mantener tus ether y tokens, así como puente para aplicaciones descentralizadas"
+    "message": "Te permite mantener tus Moac y tokens, así como puente para aplicaciones descentralizadas"
   },
   "howToDeposit": {
-    "message": "¿Cómo te gustaria depositar Ether?"
+    "message": "¿Cómo te gustaria depositar Moac?"
   },
   "import": {
     "message": "Importar",
@@ -489,7 +489,7 @@
     "message": "Mis cuentas"
   },
   "needMcInWallet": {
-    "message": "Para interactuar con una aplicación descentralizada usando MetaMask, necesitas tener Ether en tu billetera"
+    "message": "Para interactuar con una aplicación descentralizada usando MetaMask, necesitas tener Moac en tu billetera"
   },
   "needImportFile": {
     "message": "Debes seleccionar un archivo para importar",
@@ -500,7 +500,7 @@
     "description": "Contraseña y archivo necesarios para importar una cuenta"
   },
   "negativeETH": {
-    "message": "No se pueden mandar cantidades negativas de ETH"
+    "message": "No se pueden mandar cantidades negativas de Moac"
   },
   "networks": {
     "message": "Redes"
@@ -697,7 +697,7 @@
     "message": "Enviar"
   },
   "sendMC": {
-    "message": "Enviar Ether"
+    "message": "Enviar Moac"
   },
   "sendTokens": {
     "message": "Enviar tokens"
@@ -775,7 +775,7 @@
     "message": "Para:"
   },
   "toETHviaShapeShift": {
-    "message": "$1 a ETH via ShapeShift",
+    "message": "$1 a Moac via ShapeShift",
     "description": "el sistema llenará el tipo de depósito al principio del mensaje"
   },
   "tokenAddress": {
