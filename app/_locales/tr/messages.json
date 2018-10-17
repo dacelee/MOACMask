@@ -187,7 +187,7 @@
       "message": "Ondalık hassasiyeti"
     },
     "defaultNetwork": {
-      "message": "Ether işlemleri için varsayılan ağ Main Net."
+      "message": "Moac işlemleri için varsayılan ağ Main Net."
     },
     "denExplainer": {
       "message": "DEN'iniz MetaMask içersinde parola-şifrelenmiş deponuzdur."
@@ -203,10 +203,10 @@
       "description": "Kullanıcıya hangi jetonu seçtiyse onu yatırmasını shapeshift ile söyler."
     },
     "depositEth": {
-      "message": "Eth yatır"
+      "message": "Moac yatır"
     },
     "depositMc": {
-      "message": "Ether yatır"
+      "message": "Moac yatır"
     },
     "depositFiat": {
       "message": "Para yatır"
@@ -218,7 +218,7 @@
       "message": "ShapeShift ile yatır"
     },
     "depositShapeShiftExplainer": {
-      "message": "Eğer başka kripto paralara sahipseniz, MetaMask cüzdanınıza direk olarak Ether yatırabilirsiniz. Hesaba gerek yoktur."
+      "message": "Eğer başka kripto paralara sahipseniz, MetaMask cüzdanınıza direk olarak Moac yatırabilirsiniz. Hesaba gerek yoktur."
     },
     "details": {
       "message": "Ayrıntılar"
@@ -227,10 +227,10 @@
       "message": "Direk Yatırma"
     },
     "directDepositMc": {
-      "message": "Direk Ether Yatırma"
+      "message": "Direk Moac Yatırma"
     },
     "directDepositEtherExplainer": {
-      "message": "Eğer çoktan Etheriniz varsa, yeni hesabınıza Ether aktarmanın en kolay yolu direk yatırmadır."
+      "message": "Eğer çoktan Moac varsa, yeni hesabınıza Moac aktarmanın en kolay yolu direk yatırmadır."
     },
     "done": {
       "message": "Bitti"
@@ -266,7 +266,7 @@
       "message": "Parolalar eşleşmiyor"
     },
     "moacExplorerView": {
-      "message": "Hesabı Etherscan üzerinde izle"
+      "message": "Hesabı Moac üzerinde izle"
     },
     "exchangeRate": {
       "message": "Döviz kuru"
@@ -332,11 +332,11 @@
       "message": "Gas Fiyatı Gereklidir"
     },
     "getMc": {
-      "message": "Ether Al"
+      "message": "Moac Al"
     },
     "getEtherFromFaucet": {
-      "message": "Musluktan $1 karşılığı Ether alın",
-      "description": "Ether musluğunun ağ ismini gösterir"
+      "message": "Musluktan $1 karşılığı Moac alın",
+      "description": "Moac musluğunun ağ ismini gösterir"
     },
     "greaterThanMin": {
       "message": "must be greater than or equal to $1.",
@@ -359,10 +359,10 @@
       "message": "Jetonu gizle?"
     },
     "howToDeposit": {
-      "message": "Ether'i nasıl yatırmak istersiniz?"
+      "message": "Moac'i nasıl yatırmak istersiniz?"
     },
     "holdEther": {
-      "message": "Ether ve jeton tutmanızı sağlar ve merkezi olmayan uygulamalar ve sizin aranızda köprü vazifesi görür."
+      "message": "Moac ve jeton tutmanızı sağlar ve merkezi olmayan uygulamalar ve sizin aranızda köprü vazifesi görür."
     },
     "import": {
       "message": "Al",
@@ -486,7 +486,7 @@
       "message": "En az bir jeton seçilmeli"
     },
     "needMcInWallet": {
-      "message": "MetaMask kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Ether bulunmalıdır."
+      "message": "MetaMask kullanarak merkezi olamayan uygulamalarla etkileşmek için cüzdanınızda Moac bulunmalıdır."
     },
     "needImportFile": {
       "message": "Almak için bir dosya seçmelisiniz.",
@@ -497,7 +497,7 @@
       "description": "Hesap almak için parola ve dosya gerekiyor."
     },
     "negativeETH": {
-      "message": "Negatif ETH miktarları gönderilemez."
+      "message": "Negatif Moac miktarları gönderilemez."
     },
     "networks": {
       "message": "Ağlar"
@@ -712,13 +712,13 @@
       "message": "Gönder"
     },
     "sendMC": {
-      "message": "ETH Gönder"
+      "message": "Moac Gönder"
     },
     "sendTokens": {
       "message": "Jeton Gönder"
     },
     "onlySendToMoacAddress": {
-      "message": "MOAC adresine sadece ETH gönder."
+      "message": "MOAC adresine sadece Moac gönder."
     },
     "searchTokens": {
       "message": "Jeton ara"
@@ -799,7 +799,7 @@
       "message": "Kime: "
     },
     "toETHviaShapeShift": {
-      "message": "ShapeShift üstünden $1'dan ETH'e",
+      "message": "ShapeShift üstünden $1'dan Moac'e",
       "description": "system will fill in deposit type in start of message"
     },
     "tokenAddress": {
