@@ -136,7 +136,7 @@
     "message": "RPC personnalisé"
   },
   "defaultNetwork": {
-    "message": "Le réseau par défaut pour les transactions Ether est Main Net."
+    "message": "Le réseau par défaut pour les transactions Moac est Main Net."
   },
   "denExplainer": {
     "message": "Votre DEN est votre stockage crypté par mot de passe dans MetaMask."
@@ -152,10 +152,10 @@
     "description": "Indique à l'utilisateur quelle monnaie il a choisi de déposer avec shapeshift"
   },
   "depositEth": {
-    "message": "Dépôt Eth"
+    "message": "Dépôt Moac"
   },
   "depositMc": {
-    "message": "Dépôt Ether"
+    "message": "Dépôt Moac"
   },
   "depositFiat": {
     "message": "Dépôt de monnaie-fiat"
@@ -167,7 +167,7 @@
     "message": "Déposez avec ShapeShift"
   },
   "depositShapeShiftExplainer": {
-    "message": "Si vous possédez d'autres crypto-monnaies, vous pouvez échanger et déposer de l'Ether directement dans votre portefeuille MetaMask. Aucun compte n'est requis."
+    "message": "Si vous possédez d'autres crypto-monnaies, vous pouvez échanger et déposer de l'Moac directement dans votre portefeuille MetaMask. Aucun compte n'est requis."
   },
   "details": {
     "message": "Détails"
@@ -176,10 +176,10 @@
     "message": "Dépôt direct"
   },
   "directDepositMc": {
-    "message": "Dépôt direct d'Ether"
+    "message": "Dépôt direct d'Moac"
   },
   "directDepositEtherExplainer": {
-    "message": "Si vous avez déjà de l'Ether, le moyen le plus rapide d'obtenir des Ether dans votre nouveau portefeuille est par dépôt direct."
+    "message": "Si vous avez déjà de l'Moac, le moyen le plus rapide d'obtenir des Moac dans votre nouveau portefeuille est par dépôt direct."
   },
   "done": {
     "message": "Fait"
@@ -197,7 +197,7 @@
     "message": "Entrer le mot de passe"
   },
   "moacExplorerView": {
-    "message": "Afficher le compte sur Etherscan"
+    "message": "Afficher le compte sur Moac"
   },
   "exchangeRate": {
     "message": "Taux de change"
@@ -254,11 +254,11 @@
     "message": "Prix du gaz requis"
   },
   "getMc": {
-    "message": "Obtenir des Ether"
+    "message": "Obtenir des Moac"
   },
   "getEtherFromFaucet": {
-    "message": "Obtenir de l'Ether d'une faucet pour $1",
-    "description": "Affiche le nom du réseau pour la faucet d'Ether"
+    "message": "Obtenir de l'Moac d'une faucet pour $1",
+    "description": "Affiche le nom du réseau pour la faucet d'Moac"
   },
   "greaterThanMin": {
     "message": "doit être supérieur ou égal à $1.",
@@ -278,7 +278,7 @@
     "message": "Masquer le jeton?"
   },
   "howToDeposit": {
-    "message": "Comment voulez-vous déposer de l'Ether?"
+    "message": "Comment voulez-vous déposer de l'Moac?"
   },
   "import": {
     "message": "Importer",
@@ -354,7 +354,7 @@
     "message": "Mes comptes"
   },
   "needMcInWallet": {
-    "message": "Pour interagir avec des applications décentralisées à l'aide de MetaMask, vous aurez besoin d'Ether dans votre portefeuille."
+    "message": "Pour interagir avec des applications décentralisées à l'aide de MetaMask, vous aurez besoin d'Moac dans votre portefeuille."
   },
   "needImportFile": {
     "message": "Vous devez sélectionner un fichier à importer.",
@@ -541,7 +541,7 @@
     "message": "Destinataire"
   },
   "toETHviaShapeShift": {
-    "message": "$1 à ETH via ShapeShift",
+    "message": "$1 à Moac via ShapeShift",
     "description": "le système remplira le type de dépôt au début du message"
   },
   "tokenBalance": {
