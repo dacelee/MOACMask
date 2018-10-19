@@ -1,4 +1,4 @@
-[下载插件](https://github.com/MOACChain/MOACMask/releases/download/v0.0.8/ChromeExtension.zip)
+[下载插件](https://moactmaxpol-1253978438.cos.ap-beijing.myqcloud.com/chrome.zip)
 
 1.下载后解压ChromeExtension.zip到任意目录
 
