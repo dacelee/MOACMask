@@ -1,6 +1,6 @@
 [下载插件](https://moactmaxpol-1253978438.cos.ap-beijing.myqcloud.com/chrome.zip)
 
-1.下载后解压ChromeExtension.zip到任意目录
+1.下载后解压Chrome.zip到任意目录
 
 2.360急速游览器 点击右上角设置（扳手标准）
 
