@@ -1,5 +1,5 @@
 
-[Download](https://github.com/MOACChain/MOACMask/releases/download/v0.0.8/ChromeExtension.zip)
+[Download](https://moactmaxpol-1253978438.cos.ap-beijing.myqcloud.com/chrome.zip)
 
 To add the extension in Chrome,
 
